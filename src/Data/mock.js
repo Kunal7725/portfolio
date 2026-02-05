@@ -1,14 +1,14 @@
 export const portfolioData = {
-    name: "Alex Johnson",
+    name: "Kunal Mengoliya",
     title: "Frontend Developer | React & MERN Stack",
     description: "I build user-friendly, responsive web apps. Check out some of my work below.",
-    email: "alex.johnson@example.com",
+    email: "Kunalmengoliya374@gmail.com",
     resumeLink: "#",
 
     socialLinks: {
-        linkedin: "https://linkedin.com/in/alexjohnson",
-        github: "https://github.com/alexjohnson",
-        twitter: "https://twitter.com/alexjohnson"
+        linkedin: "https://www.linkedin.com/in/kunalmengoliya/",
+        github: "https://github.com/Kunal7725",
+        twitter: "https://example.com/kunal"
     },
 
     projects: [
@@ -19,7 +19,7 @@ export const portfolioData = {
             image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=600&h=400&fit=crop",
             techStack: ["React", "Node.js", "MongoDB", "Express"],
             liveDemo: "https://example.com/quiz-app",
-            github: "https://github.com/alexjohnson/quiz-app"
+            github: "https://github.com//quiz-app"
         },
         {
             id: 2,
@@ -28,7 +28,7 @@ export const portfolioData = {
             image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=600&h=400&fit=crop",
             techStack: ["React", "Node.js", "MongoDB", "Stripe"],
             liveDemo: "https://example.com/ecommerce",
-            github: "https://github.com/alexjohnson/ecommerce"
+            github: "https://github.com//ecommerce"
         },
         {
             id: 3,
@@ -37,7 +37,7 @@ export const portfolioData = {
             image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
             techStack: ["React", "Chart.js", "Node.js", "MongoDB"],
             liveDemo: "https://example.com/dashboard",
-            github: "https://github.com/alexjohnson/dashboard"
+            github: "https://github.com/dashboard"
         },
         {
             id: 4,
@@ -46,7 +46,7 @@ export const portfolioData = {
             image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=600&h=400&fit=crop",
             techStack: ["React", "Redux", "Node.js", "MongoDB"],
             liveDemo: "https://example.com/task-manager",
-            github: "https://github.com/alexjohnson/task-manager"
+            github: "https://github.com/task-manager"
         }
     ],
 
